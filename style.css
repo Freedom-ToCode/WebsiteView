@@ -1,0 +1,5 @@
+iframe{
+  width: 100%; /* Makes the iframe take up the full width of its parent */
+  height: 90%; /* Sets a fixed height */
+  border: none; /* Removes the default iframe border */
+}
